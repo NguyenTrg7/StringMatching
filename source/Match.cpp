@@ -92,7 +92,7 @@ vector<vector<pair<int, int>>> RabinKarpCmp(const vector<vector<char>>& grid, co
                         patternHash = (patternHash * BASE + (unsigned char)grid[r][c + len - 1]) % MOD;
                     }
 
-                    if (patternHash == hashkey) {
+                    if (++comp && patternHash == hashkey) {
                         int k = 0;
                         while (k < len) {
                             if (++comp && grid[r][c + k] != words[i][k]) break;
@@ -120,7 +120,7 @@ vector<vector<pair<int, int>>> RabinKarpCmp(const vector<vector<char>>& grid, co
                         patternHash = (patternHash * BASE + (unsigned char)grid[r + len - 1][c]) % MOD;
                     }
 
-                    if (patternHash == hashkey) {
+                    if (++comp && patternHash == hashkey) {
                         int k = 0;
                         while (k < len) {
                             if (++comp && grid[r + k][c] != words[i][k]) break;
@@ -359,7 +359,6 @@ vector<vector<pair<int, int>>> AhoCorasickCmp(const vector<vector<char>>& grid, 
 
             while (++comp && curr != 0 && trie[curr].children[uc] == -1) {
                 curr = trie[curr].fail;
-                ++comp;                
             }
 
             if (trie[curr].children[uc] != -1) {
@@ -381,7 +380,6 @@ vector<vector<pair<int, int>>> AhoCorasickCmp(const vector<vector<char>>& grid, 
 
             while (++comp && curr != 0 && trie[curr].children[uc] == -1) {
                 curr = trie[curr].fail;
-                ++comp;
             }
 
             if (trie[curr].children[uc] != -1) {

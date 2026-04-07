@@ -57,7 +57,7 @@ void WriteToFile(string fileName, string algo, vector<string>& words, vector<vec
         fout << "Boyer-Moore\n";
     else fout << "Aho-Corasick\n";
 	fout << "Comparisons: " << comp << '\n';
-	fout << "Excution Time: " << fixed << setprecision(10) << time << " ms\n";
+	fout << "Excution Time: " << fixed << setprecision(4) << time << " ms\n";
 }
 
 void Run(string algo, string inputFile, string outputFile) {
@@ -74,7 +74,7 @@ void Run(string algo, string inputFile, string outputFile) {
     auto start = high_resolution_clock::now();
     res = AlgoNavigator(algo, grid, words);
     auto end = high_resolution_clock::now();
-    time = duration_cast<duration<double>>(end - start).count();
+    time = duration_cast<duration<double, std::milli>>(end - start).count();
     
     WriteToFile(outputFile, algo, words, res, comp, time);
 }
