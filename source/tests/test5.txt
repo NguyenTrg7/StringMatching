@@ -1,0 +1,152 @@
+100 100
+z z z z z z z z z z o z z z i z q z z z z h z z z z z o s z z m z z z z z z z z z z z z z z z z z z z z z z z z x l z z z z z c z z z z z z z z z z z r z z z z c b z z z z z y z z z z a z z z z z z z
+z d z z z z z z l z f z z z z z s z z z z z q z z z z z z a g z z z z z z z z z z r z z z e z z z r g z z z z i z z z z z z z z z z z z z z z z z z z z z z z z j z z z c z z z z z z z z z z z z z z z
+z z z z z r z z z z z z z z z z z g t z z z z z z z z z z o z r z z z x h z z z z z z j z z z z z z z z z p z z w z z z z z z z z o g z z z f z z z z o z z z z t z z z z z z z z z z z z z z z z z z z
+z z z z z z z z z z z z z z z z z z z z z z z z z q z z z z z f z z x z z z z n z z z z z z z z z z l z z s z z z z z z z z z z z z z z z z z i z z z z z z z z z z z z z s z z m s z z z z z z z z z z
+p z z z k z z z z z z y z z z z p z z z q z z z z z z z z z z z z z x z q z z z i z g j l n g b r m j q p m c p z z z z z z z z z z z z z z z z z z n m z f z z h z z z z z u s z z z z z z z z g z z z
+z z z c t a z z z z z z z z z z z z v w i z z z z d z z z n z z x z z z s z z z z z z z z z z z z z z z z z z z z e z z z l z z z z z z u z z z z z z z z z z y z z z z z z z s z z z z z z z z z z z z
+z z z z z z z z z b r k a r f a v h m z z z d z z z z z z z z z p z z z z z z z z z z z z z z x z z z z z z z z z z z z z z z z z z z p z z y z z z v z z z f v z z z z z z a z z z z z t z z z z z z n
+z i z z q z w z o z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z n z z z z z z z z z z z z z z z z z z z c z z z z z z z z m z a z z z z z z z z x z z e
+z z z z z z z z z z z z z z y z z z f z z z z v z z z z z z z z z z z z z z z o z z z z z z n z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z g z z z z z f z z e z z z z z d z z z z
+z z z z z z z z z z z z z z z z z z z z z z z z z o z z z z z z l z z z z z z z z z z z z z z z t z z s z z z z z z z z z z z z z z z z z z t z z z z z z z z z z z z b z e z z z z z z d p z z d v z z
+z z z z z z z z z k w j v v j q v y c z z z z z z z z z n z j z z z s z z z z t e z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z o z d t z i z z z z z z z z z z z o z z z z z z z
+z z z z y z z z z z e z z z z z z z z z e e z o z z z z z z p f z z z z z z z z z z z s z z z z x a z z z z z z z z v z z z q z z z z z z z z z z z z d z z z z z z z z z z z z z c z z z z z z z z z z
+z z z z z z z z z z z z u z z z z z z z r z z z z z z z z z z z k z z z z z z z m w z h z z z z z z z z z z z c z z z z z e z z z p m z z z z z z z w z z z z l z z j z b f z z z z z z z z z z z s z z
+z z z z z z z z z y z z z z z r a z z z n z z z z z z b r k a r f a v h m z z z z z z z z z z z z j z z z z a z z z z z z z z z z z z z z z l z z z z z s z z z z z z z z z z z z z n z z y z z z z z z
+z z f z z s z z z z p z z k z z w z z z g a z z z z z z z z z z z z k z z x z z z z z z z z z z z z z b z g r z z z z z z z z z z z q z z z z z z z z z z z z z x z z z z z e p n z z z x z z z t e e z
+z z z z z x b b z z z z z z z z z z z z j z t z z z z z z z z z z z z z i j z z z z z z z z z z z z z z n s z z z r z z z z m z z z r z z z z z z z z z z z z n z z z z z z z z z z z z z z z z z z z n
+z z z k z z q u w v z z z z z z z z z z l z z z z z z z z u z z z z z z z z u z z e z z g h y z z z z z i z z z z z z z z z z z z z z z e z z z z z v z z z z u z d z z z z z z z z z z z z z z z z z z
+z s z z z z z z r n z z z z t z z j z z n w z v a z z z z z z z z z z z v z x z z z z z z z z d z v z l z z n c z t z z z z z z z z z z y z z z z z z z z z z z z s z z j z z z z z z z z z z z z z z z
+z z z z z z z z z z z z k z z z k z z z r z a z z z z z z z f z z z z z z z z z z z z z z z z z z z z z z z z z z z z z n z z z z z z z z z z z z z z z z z z z z y z h i c d e m k b e r k k h k t b p
+z z z z z w z z i z z z y z z z z z z z k z z n z z z z z z y z z z x e z z z z o e z z z z z z z z z z f z z z z z z z z z z z z z z z z z z z j z s z z z z e z z z z z z z z z z z z z z z z z z z v
+i z z p z z z z z z a z z z z z y z w w h n z z z z z z j z z z z z z z z z z z z z z t z z z z l z z z z z z z z z z z z z z z z z z z v z z f z z z z z i z z z z z z z z z z z q z z z z z z z z z c
+z q z z z z z z z z z z z z z z z z z z j z z z z y z z y z z z z z z z z z z x z z z z z z z q z z u z z h z z z z z z z z z z z z s z z z z z q z g z z z z z z j z z z z t z z i z z z z z z z z z c
+z z z z z v p z l z z z z z z z z z z z l z z z z z z z c z a z z z z z z z z z z z z z z z z z z z z z z z z n z z z z z z z m z z z z z r z z v z a z z z z j z z z z z z z z z z z z z z z z z z z n
+a x z z z z o u z z p z z q z z z z z z x p z z z z z z r z z z z z z z z z z z z z z z z z z z q z a z z b r k a r f a v h m z t z u z z z z l z z z z z z z z z z b l o b x u k m k c s k k z z z z z
+z z z z z t z z z z z z z z z z z z z z z z z z z z z z z n z z z z z z z z n z z z z z z z z m z z z z z z z z z z z z z z z z z z z z z z z z z l z z z n z z z z z z o z z z z z z r z z z z z z z z
+z j z z n h z k z z g q x z z z z s z z d g g z z z z z v z z h z z z z z z z z z z z z z z z z e z z z z z z z z z z z p z z z z z z z z z z z z z z z z z a z z z z z z z z z z z z z f z z z z z z z
+z z z z z z z z z z z z z z z z z z z z d z z z z z z z v z z z z z z z z z r z z z z z z z b z z z z z l z z u z z n z z z z z v z z z q z z o z z z z z k z z z z z c z z n z z z z z z z z z z z z z
+z z z z b z z z z z z p z z z z z q z z t z q z z u z j y z z z z z z z z z z z g z z z z z k z z z z z z z u f z v a z z z p z z z z z z z z z z z z z z z z h z z z z z z z z d z n z v z z z z z z l
+z z z z w b z z a z z y z z z z z s z z x z z y z z z z t n z z z z z z z z z z z z z z y z z z z z z z z z z z z w z z z z a z z z w z z z z z z w z z z z i z k w g f f z z z z z z z z z z z u z z z
+z z z z z z z z z z z z z z z z z z z z z z z z c z v z e z z z z z z z z z z z z z z z n z z z z z z z z z g j l n g b r m j q p m c p z z z z z z z z z z z z z z z z z k t z z z z z z z z z z z z z
+z z z z j z z z z z z z z z n z z z p t z z z z z z z b z f z z k z z z z c z z z z z z z z z z z z z z z z a z f z z z z z z z z z z z z z z z z z z z j z z z z z z z z z z z z f a q z z z z z z s z
+z z z z h e z z z z z z z z z z z z i z z z z z z v z z z z z z z z z z z z z z z z o z z z z r z c z z z z z z z z z c z z z e d z z z z z z z z z z z u z z z z z x z z z d z z b z z z z z z z m z z
+z z z z x z z z z z i z z z z z z z z z z z z z s z i v z z j z x z z z z z z z z v n x z z z z z z z z z z z z z z z z z m z z z z j z u z z z z z z z z z z z z z o z e z z z z z z z j z z z z u z z
+z z z z y z z z z z z z e g z z z z z z z z k z z z u f z z z z z z z z z z u o z z q h z z z z z z z z z z f z z z z z z q z z z z z z z z z z z z z z z z z z z z z z k z z z z z z z z z z z z z s z
+z z z z k z z r z z z z z z z z z z z z z z z z z w u z q z i z z z z z i z z z z i z z z z z d z z z z z z m z z l z v z z z z z z z z j z n z z v z z z z z z d z z o z i z z z z z z z z z z z z z z
+z z a z v z z z z z b z z z z z z z z z z z z z z z z z z z z z z z z z z z z z h z z z z z z z z z z z z z z z z z z z z z u z z z z z j z z z z q z z z z z z z z z d z z z l z z t z z n z z z z z z
+z j z z r z z z z z z h i c d e m z b e r z z h k t b p s z z z y z z z z z z z z o z z m z w z n z z z a w z z z z z z z z f z z z w z z z j z z z z h z c z z x z z z z z z z z z z z z z z z z z z z
+z m z z z z z p z i z z z z z z p z z v z n z z z i z z z z z z z z z z z z z z z z z z z z y z z z z z z z z z z z z z z z z z z m b z z z z z z z q z z z z z z z z z z z z z u k z h z z z z z z z z
+z z z z j z z z z z z x z g z z z z z z z z z z z z f z z z z z z z z z z z z z z z c z z z z z z z z z z z j z z v z z z z z z z z x g z e z z z z z z z z z z z z o z z z z z z z z z z z z z z z z z
+z z z z p z o z z m p t z z z z q z g z z z z z z z x z h z z z z z z z z z z z z z z o z z z z z z z z z z z z z e o q z z z z z z c n z z z z z z z z z l z z z z z z z z z z b j z z z z z n z z z z
+z z z z l z z z z z s z z m z z z z z z z m z z z z z z j z z z z z z c z z z z z l z z z o z z z y z z z z z z z z t j z b z z z z z z z z z c k z z z z z z z z z z z s z z u k z z z z z z z z z z z
+z z z z s z z z z z z z z z z z t z z z z z z z i z z z z z z z z z z z z z z z z o z z z z y z z z z z z z z k z n z z z z z z z z z z z z z z z z z z z z z z z n z z z z n z z z w z z z k z z z z z
+z z z z v z z z z z m z z z z q z z z z z z z z z p z c y z z z z z z z z z z f z z o z z z z z z z z z z z z z z z z z z z z z x z n z z z z z z z z z z z z z n z z z z q z z z z z z z z w z z z g z
+z z z z k z z z k z z z z z z z z z v z z l z z z z z z z z z z z z z z z z z z z z z q z t z u z t z z z z z z z n z z z z z z z z z z z z z z z z z z z z z z z z z z z z m w z z z z z z j z z z z z
+z z z z t e z z z z n z z z z z z z z z z z z z z z z z z z z z z z z z z n z z z z z z z z z z z z z z z z z z z z z z z z z z z z z v z z i z z z z z z z z z z z h z z c z b h z z z z j v z z z z z
+k z z z z z b o z k z r z z z z z z z z z z z z z z z f z z z z z z z z z z z u i z z z z z z z z z z z z z w z z z z z z z z z z x z l b z z z z z z z z z z z z i z z m z z z z z z z z z n m z z z z
+z z z z z z z z z r b z z z z z z n z z z z n z e z z z z z z c z d z j z z z z z p z z z z z b u z z z x z z z z z t z z z z z z z z z z z z z z z u z z z z z c z z z z z z z c z w z z z j f z z z z
+z z z z z u z z z z k z z z z z z y z z z z z z z z l z z z z s z z z d z z z z z z z z z z z z z z z z a z z z z z z z z t z z z z z z z z a z x z z z z z z z z z z l z z z z d z z z z z q z z z z n
+z y z z z z z z z z z z n z z z z z z z y z z n e z z z z z z z z z z z z z z m z z w z z d z z z z j z z z z z z x z z z z z z z z z z z z z z z z z z m z z p a z z z z z z z e z z z z z v z z z z z
+z z z z b y z z z m z z n z z z z z a h z z w z z z z z z z r z r z z z z z l z z z z z z z z s q z q r h y x o q w i e l z z z z z z z z d z z m z z z d z z v z z z z z z z z m z z z z z y z z z z n
+z z z z z w z z z z z z z z h c z z z e z z h z y u z z z z z a z z z z z z z z z p z z z z z z z z z z z z z z z r g z z d e z z z z z z z z z z o z z z z z z z z n z z z w z k l z z z z c z z z z z
+z z c z z z z z z z z z z z u z z z h z o z z c i z z z z q z z z z z z z z z z z z z z z z z z z z z t z z z z t z t z b z z z z z h z z z z z z z z z z z z z z z z z z z z z b c z z b z z z z z z z
+z z z z z z z z z z r z z z z z z z z y z z z a w z z z z z z q z z z z z z z z z z z z n z d z t z z z z z z z z q z z z z z z z z z z z z z z i z z z z z z z z z z z z z z z e z z z z z z z t z z z
+z z z g z z z z z z c z z z z z z s z i t z z z l p z z z z z z z z z d z z z z z z z z z z v z z z z z z z z z z t z z z p z z z z z z z z z z z z z z z z z z z z z z z z z z r z t z z z j z s z z z
+m z z z z z z z z z z z z z z z z z z w z z z z v z z z z z z n z z z x u z z z c y z z z z z z z z z q z z z y z z z z z z z z z z z z z z z z z z z z z b z z z z i z z z z z k h z z z z z z z r z z
+g z z z z z z z z z z z z z z z z z z l z z z z h z z y z z z z z z z z z n z w z z z z z z z z i j z z z z z z z z z z z z z z z z z n z z z z x z z z z z k z z z z z z z n z k z z z z z z z z z m b
+z z z z z k z z z z z z z a z z z u z v u z z z u z z z z z z z z z z z z z z z z z z z y z z z z z c z z b z x z z z z z z z u z z z z z z z z z z z z z z z z z z z z z z t z h z z z z z z z h z z z
+z z z z z p z z z z z z v z p z z z z h s z x z g z x z z z z z z z z z z l z i z l e z z z a z z z z i z z z z z z z z z z r z z z z z g z z z z f z d z z i z z a z z z z z z k z z z z z z z z z z z
+z t p z z z z z z t b c z z z z q z z u n z z z l z z z h z z z z z z m z z z z z n z z z z w y z z z z z z z z z z z z f z z z z z z z z z z z n z z z z z z z z z b w z j h x y k v r z z p z s v k t
+w z z z z z z z z z z z z z z z z z z g z z i z x z z z z z z b z z z b z z z z t z z z z z z z z z z z z e z z z z z z z z p z z z z z z z z z z z z z z z z z z z z z z z z z b z z z z z z z z z z z
+z z z z z z z z z i z z z l z z z z z l z z z j z z z i x z e d z l r z z z z z z z z p z z z z z z z z z z z z z z z z z i z z z z z z z v z s z z o z y z z z l o s a e j q p p v p g w z f z y h z l
+z z z z j z z z z b z z z z z u z z z x z z z z z z l z z z z k z z b y z z z p z z z z z z z z z f z z z z z z z x z z z o z k z z z z z z z z z z z z z z y z z z z s z v q z z z z z z z z z i z z z
+z z z u z z z h z z z z z z z t z z z z z z z z d z z z z z z z z z z z z z z z z z z n z z z q l z z z k y y z p x z z z z z z t z z n z z j z z z z z z a z z z z z z z z z z z n z i z z z z z n z z
+u z z z z z z z z z z b l o b x u k m k c s k k z u z z z z z z z z z z z z z z u z z z z z z z x z z z w z z z z z z z k z z z z z z r g u z z s z z l z f z z z z i z u z k v z z g z z z z z z z z z
+z z z z z z z z z z w z z z z z z z y z o z z z z z z z z z z z z z z z z z z z z z z z k z z z z z i l z z z t z p z z z v z z z z j z g j l n g b r o j q p m c p z t z f w z z z z z z z z z z z z z
+z z z z z z z z z z z z z z z z f z d z z z z z z z z z z z z z z z z n z z z z r z z z j z z z z z z z z z z z z z z r z z z z z z z z z z d z n z z s z z z a z z z z z d j z z x z z z n z z z z z z
+z z z z z c z z z z h z f z z z z z z z z z z z w z z z z m z z n z z z z z z z z z z z y z z z z z z z z z z z h a z z z z z q z z z z z z z z z z z a z z z z z z z z z z v z z z l z z z z z z z z z
+z l o s a e j q p t v p g w m f h y h z z z y z z z r d z z z z z z z z v z z z z z z z z z z z z z z z z q z z q z z z z z z z z y z z z z z z i z d e z z z z z z z z z z v z z z t z z z z z u l z z
+z z z z z z z z z o z z z z z p z f z z z z z z f z z z z m z z c z z k y z z m z z z z z z z z i z z z z z z z z z z q z z z y z z z z z v z z z z z j z h z z z z z z z p j z z z z z q z w z z z z q
+z z z z z w z z z z z z z z z r z z z z z z z z z z z z z z n z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z n z q z z z z v z z z u z q z z z i z z z z z z z z z
+l z z z z z z z z z z z x z z z z f a z z z g z z z z z z z z f z z z z z z z z z z z z z f z q z z z z z z z z z z z z q z z z z z z z e z z z z z s p z z z z z z z z z z z z z z z z z z z z z z z n
+z z z z z x z z z z u z z z z z t z g n z z z z z z z z z z z e p z z z z z z z z z z z z z z z z z z z z z z z z d z z z a z z z z z z z z z z z z z t z z z z u z v z z g y z z z q z b g z n z m z z
+z f z z z z z z z q c z z z z z w z z z z z z z z z z z z z p z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z n z f q z z z z z z z z v a z g z z z z z z z c z z z z z w z z z d z z z
+z z z z z z z z z z z z z z h z b z z z z z z z z z z z z z z z z z z z z u z z k z z z w z z z z h z z z z z z z z z z z z z z z z z z z z z z z z j p z z z z z z z z z g z z z z z z z z a z z f z z
+z z h g z u z j z z z z z z z z z z q q z x z z z z l z z z z z z w z z z z z z z z i o z z z z z z z z z z z z z z z z z r z z z n z z z z k z z v f g z z z d z t z z z i z z z z z z j u z z z d e z
+z z z h z z z z z z m z y o v i z z z z z z m z z z z z z z z z z z z r z z z z z z z z z z z z z r z z z z z z i z z z z z z z z z z b z c z z z z z z z z z z z z z z z z z z z z z n h e z g z z z b
+z z z z z z z p z z f u v z z z z z z z z z z z m w z z z r z z z y z z z z z z z z z z z z z z h z z z z z z z z z z z z z z z z z z z z z z z o d z m f z z z z z z h z z z z z z e z x z u z z z z q
+m z z z z z z z v z z z z y z z z o z z z t j m z z z t z z z z z z z z z z z z z z z z z v z z z z z z z z z z z z z z z z g z z z z z e j z z z z z f c z z p m z z z z z z o z z z z y z z z z z z n
+f z z z z t z z z z v z z z i z z c z z z z z z z z z z r z c z f z v p j z z q z d z z z z z z z z z z z z z z z z n z z f r z z z z z z z z z z z z h z z z z z z z z z z z z z z y z k z z z z z z z
+z z z o z z z z z z z z z h z z z u z z z n z z z z z z z z z z z z a z z c z z z z z z z z z z z z r d z z z z z z z z z z z z z z z z z w z z z z z y z z z z a z a z z z u z z z i z v z e z z z z z
+q z z z z z z z z j z z z x z z j z z z z z z z z z z z z z z z r z z z z z z n z z z z z z z z z z n v z z z z z z t z z z z z k z z z p z z z z z z h z n z j z z z z z q z z z v w z r z z z z b z z
+z z z z z z z z z z z z z z z z z z z z z a z z z z a f z z c g z z z o v z z z z z z z z m z z z z z m z z z i z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z l t z z z z z z z h
+z z z z z z t z z q z z z z v z z z t z z z z z z z z z z z z z z z z z z z q i z z t z a z n z z z z d z z c z z z z z z q r n g r g g l w b m t w i e l z z z z z z z b z z z z c v z j v z h z z z z
+u z z z z z z z z z z z z z s z l z z z z z z z z z z z z y z z k z z z j z z z z z y z z z z z z v z z z z z z z z z z f z z z z t z z z z z o z z z z z z z z z z z z z z z z z z h z p z z z z f z z
+z i z a z z z z z z z z f z z z z z j z z z z z z z z z w z z z z z z z z z z z z z z z z z z z u z z z x z z u z z z z z z z z z z z z z z f s z g z z z z z z z z z z z z t z z t u z l z z z z h z z
+z r z z z z z z z z z n z z z b z z z n z z z w z z z z z z z z z h z z z z z p z l k z z z z t z z z z z z j z z z z z z z z z z z z z z l z a z z z z z z z z r z z z e z z z k z g z s z z z e z z z
+z z z z z z z z z z z z z z z z z z n z z z z z z b w z j h x y k v r z j p l s v k t z z z z z z z z z z z z f z z z n z z z z z z z z z z z e z z z z s z z m j c z z z z z z u a l z v z e z z z z z
+z z z z z z z x z z z z z f z z z z z z z z z n z f z z z z z z z z z z z z z z z z z z z z z b z n z i z g z z m z z z k m z z z z z z z z z j z z z z z z z z z v z z z z k z z z x w k v v j q v y c
+z c z z z z z z z z z u z z z z z z z z z z k z z z z z z z z z z z z z z z z z z z z z z z n z z x z v z z z z z z z z z z z z z z z z z z z q z z z f z z z z z z z z z z z z z z z z t z z z z p z z
+z c z z z b z z z z z q z z z z z z y z z z z z z z z z z z z z z j z z z z z z z z z z z c z z z z z l z z z z z z z z z z z z z z z z w z z p z z z z z s z z z z z z l z m z z z z z k c z z z z z z
+z z z z l q z z z z z z z z z j z z z z z z z z z z z z z z z z z z z z z s z z z z z z z z z z z z z z z z z g z z z z z s z z z z z z z z z z z z z z z z z z z z z z z z z n z z f z z z z z z z z d
+z z z z z z z z z z z z z z z y r z z z z z z z z z g z z z z z z z z z z z z v z z z z z z z z z z z c z z z z p z z z z z p z z z z z z z z v z z z y z z s z z z z z z s r i z i z z z t z s z z z z
+z z z z v z z z z z z z z z y c z z z z z f z z z z z k z z d i w z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z p z z i c z z z z z z l z z h a z z z s z z z z z x z z z
+z z z z r z z z z z z z h z z r z t z b z z z z z z z z z x y z z z z z z z w z z z z z z n z z z z z z w z z z z q z z z c z z y p z z z z z g z z z r z z z z z z z z z z z e z z z z z z z v z z z z
+s z z z z z z z z z h z q z z h z z z t z z z z z z z z z z z z z f n z z z z z p z z z z z z z z z z z z t z z z z z z z z h z z z z z z z z w z z z h z z z z z z z z z z z z z z w c z z z z d z z y
+z x z z z z t z z z z z z z z v l z z z z z z z z y z z z z z z z z z z z z z z z z z z z z z z z z z z z z z e z z z z z n z z v z z z p z z m z z u v z z z z s z z z z z z z z z j h z z z z z h z z
+b z z z z h z z t z z q z z z v z z z z z z z z z z g j l n g b r m j q p m c p z z z z z k z z z i z z z z s z d z z o z e z w z z z z z z z f z j f v z z z z z z z z z z z z z z z z z z z z z z z n
+z z z z z z z z z z z a z k z y z z z z z z z z z z z z z u z z z z z z m z z b t z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z h z z z y z z z z z z z z z z z z z z z z z z z z c z z t
+u z z z h z z z z z z z z z z t z z z z z z s z z z b a z z z i t g x u z z z p z z z z z z z z z z z z z z z v z z z z z z z z z z z z z z z y z z z t z z z z z z z z z n z z z z z z z g z z z z z z
+z z z q z z z z z e z z z z e e z z l z z z z z n z z z z v z z z z z z z u z z z z z z n z n z z z z z z z z z z z z i z z z z f z z z z z z h n z z e z z z p z z v j z z z j z z z f z z z z z n z z
+50
+zzzzzzzzzzzzn
+zzzzzzzzzzzzzzzzzzn
+zzzzzzzzzzzzzzn
+gjlngbrmjqpmcp
+zzzzzzzzzzzn
+qrhyxoqwiel
+zzzzzzzzzzzzzzzzzn
+zzzzzzzzzzzn
+zzzzzzzzzzzzzzzzn
+zzzzzzzzzzn
+zzzzzzzzzzzzzzzzzzzn
+kwjvvjqvyc
+zzzzzzzzzzzzzzzzzzzn
+zzzzzzzzzzzzn
+brkarfavhm
+zzzzzzzzzzn
+zzzzzzzzzzn
+zzzzzzzzzzzzzzzzn
+zzzzzzzzzzzn
+zzzzzzzzzzzn
+zzzzzzzzzzzzzzzzzn
+zzzzzzzzzzzzzzn
+losaejqptvpgwmfhyh
+zzzzzzzzzn
+zzzzzzzzzzzn
+ocnvnkacitoblqralw
+hicdemkberkkhktbp
+ppveugmszuvxqtvv
+bjiaqxjnmeobzwxjuknl
+rngjlnrkhjlxsddt
+zzzzzzzzzzzzn
+jycrhvvyte
+zzzzzzzzzzzzzzzzzzn
+zzzzzzzzzzzzzzzn
+zzzzzzzzzzzzzzzzzzzn
+zzzzzzzzzn
+blobxukmkcskk
+qrngrgglwbmt
+ezyiwlvhuglx
+zzzzzzzzzzzn
+zzzzzzzzzzzzzzn
+nfxyweuznbs
+zzzzzzzzzzzzzzzn
+zzzzzzzzzzzzzzzzn
+bwzjhxykvrzjplsvkt
+zzzzzzzzzzzzzzzn
+zzzzzzzzzzzzzzn
+zzzzzzzzzzzzzzn
+zzzzzzzzzzzzzzzzzzn
+zzzzzzzzzzzzzzzzzzzn

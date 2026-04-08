@@ -1,0 +1,17 @@
+10 10
+r l r j r r r r r r
+r r o r r r r r r p
+r r r r r r r r b r
+i u c m r r r r r r
+r r r r r r i u c m
+r r r t r r r r r p
+r r r r r r r r r r
+r r r r r r r r p r
+r r u c r l r r r r
+r p r f p n p r r p
+5
+iucm
+rrrp
+lktxi
+rrrrp
+rrrrp

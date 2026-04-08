@@ -1,0 +1,112 @@
+100 100
+g g g g g g g b z g g g g g g g g g g g g g h b g g g g g g g n g g g g g g g g g g z g g g g g g g g e g g g q g g g g g g g v g g e g g g g g g r g x v g g p g g g g g g g g g g g g g g g g g t g g
+g g g g g g g g g g g g m j o g g g g g d g g h g g g g g g g g g g g g g g g r p g g g y g g g w g g g g g l g m g g g g g g g g g g g g g g g p g z g g g g g z g g g g g g g g g g g g g g g g g g g
+g t g g g c g g g e g g g g g z u g g g g g g f g g g z g v c g g g g g g g g g g g g g g g g g g g g g g g g g g g g n g g g g g g g g g g g g g g r g g r g g g g g g g g g g g k g y g g g g g g g g
+g g g g g g g g g g g g g g g g t g g g g g g g g g g x g g g m g g g g g o g g g g g q g g g s g r g g x g g g g u g o g k h p b g g g g g g g g g g g g g n g g g g g g g g g g a g g g g g g g g g g
+g g g j g w g g g g g g g g g g g g g q g g p g g g g g e g g g g a t g g z g g y g g g g g g g g g g g g g g g g g g g g g c g g g g g g g q g g g g g g g g g g g g g g e g g g g g g g c g g g g g g
+g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g k g g g x g g g g g w g g g g g g g g g g g g p g g g g g g g g g g g g n g g g g g g g g g g b g g g g g g g g g g g g g g g v g g i g g
+g g g i b g g g g g g g g g g g g g g g g g g g j g g g g g g t g g g g h g x e g g g g g g o e g g g g g g g g g g g g g g g g g g g g g g g e g g g a r g g g g g g g g g g g g g g g g x g g g g g g
+g g g g g l g g g g g d g g g g g h g g q g g g g g g g g f g g g g l g g g r g g g g g g g g g c g g g g g g g g g g g t g g d g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g d g
+g g u g g g f g g d g g g g g g g g z g g g g g g o g g g g g g g v g g g g g g g g g d g g g g g g g g g g g g g o g g j g g g r g g g g g g g g g g g g g s g c g g g g d p g g j g g g g g g g g g g
+g g g g g g a g g g t x v g g g y g g g g g g g g g g g g g g g g x j g g g g g g g g g g g g g g g g g g g g o g g g g c g g g g g g g g s g g s g g g x g g h g g i w g g w g r g g g g g g b g g g g
+g g g g g t g g i g g g g g g g g g g g g g t g g g g g g g g g g g g g g g g g g g g j g g t g g g q g g g g g d g g g z g g g g g g g g g g g g g g e r g g g g g g g g g g g g g g g g g g g g g h g
+k g g g g g g g c m g g g g g g g g g g g g g g g g g g g g g g g g g p g g g z g g g u g g g g g g b g g g r g g g g g u g y r g g g g g g g d g g g g g g g g w g g g g g g g g g b r g g g g g g g g
+g g g g g g g g g g g s g g g g g g h g g y b g g g y g g g g g g g g g g g g g g g g g g g g v g g g y d g g g d g l g h g g g g g g g g g g g g g g m g g g g g g p g g g g g k g g i g g f g g g g g
+g g g g m k g g g g g g g g j g i g g g g g g g g g g g g g g g g g g g g g g g u g g g g g g g g g g g g g g x w d g g a g g g g n k g g g g g g g g g g g d g r g g g k g g g g g g g g g v g g g g g
+g b g s g g m g g g g g g g g g e g t j c z u h a m b n j o g g g g g g g g g g g g g g g g h g g g x g g g g g g g g g m g g g g g g g g g g g z g g g e g g g g g g g g g g j g g g g g g g f g g g g
+g j g g g g g g g g g g d g g h g g g g g g z g g g g g p g o g g g g g p g g g g g g p g g g p g b g g g g g f g g g c b g v x g b g g o g g g g g g a g g g g g g g g g g g g g g g g g z a g m g g g
+g b g g f g p g g g g g q g g g g g g g g g g g g g g g g g g s g g g g g g g g g g g g g t g g g g f g g g g g g g g t n g y g g g g x g g l g g g r g o z g p g g g g z g g g g m g d g g g g g x g g
+g g h k g g g g g g g g g g g g g g g g g g g p g g g g g g g g g g g g r a g g g g g g g g z g t g g g g d g g g g g g j g g g g g g g g i g g g g g g g n u g g g g g g g d g g g g g g g l g g g g g
+r g g g g g g g g k g g g g g g g g g g w g g g g g g g g g g g g g g g n g g g g g g g g g g g g g g g g r g g g g g g o g g g g t g g g g g g t g g g g g g g g b g g g g g g g g g g g g g g g g g g
+g g g g g g g g g g g g g t g q g g g g g g g g g g y g g g g g g g g g g g g g g g g g g g g g g g g g g g g a g g f w g g g g l g g g g g o v q g g g g j g g g g g g g g g y g g g g g g g b g g g g
+g g g g g g a g g g g g g g g g g g g g g g g g g g g g g g g i g k i g g g g g g g d g g g g r g g g w r g f g g g g g g g g g g g g g y g g g g g g g g g b i g g g g g g g n g g g g g y x g g g g r
+g g g g g g g g g g g g g g g g g g g g g g g g g z g g g g g j y g e g g g g g x g g g g k g g g g g g g d g g g g g g g g g g g g g g g g g g g g g g g g g g s g g g g g g g j g l g g g g g g h g g
+g g k g g g g g g g g g g g g r u f g g g g g g g g d g s g g g r g g g g g g g b g g g g g g g g g g x g g g c g g f g g g g g g p g g g g g g o g p d g g g j g g p g g g g g g g g g g g g g g g g w
+g g v g g g g g g g g g g g g g g g c g g e g g g g g g g g g g g g g g g g g g g m g g u g g m g g g l g y g g g g g g g g j g g g g g g g g g g g g g g x g g g g m g g g g g g g b g g g g g g g g g
+g m g g g g g g g r g g g g g g g g z g g g g g g h g g g g l g g g g g g k g g g g g g g g g g g g g g g o g g f g g g g g g g g g g g y g g g g j g g g g g g g g g g g g g g g r g g g y g g f g g g
+g g g g g g g g g g g g g g g g l g g c g g y o g g g p g g u m g g g g g g g g g u g g g g g g g g g f g g g g c g g g g g g g g g g g g g g g g c g f r g g g o g g x g g g g g g g g k g g g f q e g
+g g g g g g g g g g g g g g g g g g g g g g g g g f g g g g g h g g g g q g g g p g g g g g g g g g g g u g g g g g g g g g m g n s g g g g g g g t i g g g g g g m g q g g g g v g g b g a v g g v g g
+g g g g g g b m g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g y g r g g p g g g d g g g p g i h b g v g g g g g g g g j g g g g g g g g g g g g g g n g g g y r w g g g g g g g g g g g
+g g g g m g g g g g g g g g g g g g g g g g g z g f g g t g g g g g g g g g g g k k g g g g g g c g g g g z g g g k g g g r g g g g g g g g g g g g g g g g g g g j g g g g g g g g g g g g g g g g g g
+g g g g l g g g g f g f g g g g r g g g g b g g g g g g g g g g g g g j g g y v g g g g g g g g g g g g g g g g g g g g w g g j g g y g g g g g g s g g g g g g g r g g g g g g l g g g j g f g g g o c
+g g g g g g g c g g g g g g g g g v g g g g g g g g g g g g g g g g g g i g g g c i g g g g g g g g g s p g h g g g g g g g g g g f g g g g g g g g g g g g g k z g g g g g g c g g g g g g g g g t g g
+g g g g g g g g g r z m g g g g g g g g s g g g g g g g g q g g c g g g g g y g g g g g g g h g g g g g n g g g g g g g g g g g g g g d g g g c g g a g g g g g g g g g g g k g g g g g g g g g g g g g
+g g a e g g g g g g o g g g g g g g g v r g g g g g g g b g g g g g g g g g g g g g g g g g e g g g r g g g g y t z g g g n g g g g g g g g g g g g g g g g g g f g f g g g g g g g g g g g g g g g e g
+g g g g t z g g g g g g n g g i g g g g g g g g g g g g c g g g g g g g g g g g g g g g g g g r g g g g g g g g g t g g g g i g g g g g g g g m g u g g g g w g g g g b g g g g g g g g g g o g g v e g
+g g g g g g g g g g h g g g x g g g s j j a g g g g g g g g g g g g g g g g g g v g c g m g g g g g g g g g g n g g g g u g g g g g g g g g g g g g g g g g m w g g t g g g g g g g g g g g g g g g g g
+g g g g f g g g g g g q g g g g g g g g g g t g g t g g g g g g k x g g g g g g g i g g g g g g g g g g g g g u g g g g g o g g g g g g t g g g g g g j g g g g g g g g g g g g g g g g g g g g g g g g
+g s g g g g g g g g g g g g g g g g g g g g g g g u g g g g g g g r g g g g g g g g g g g g g g g g g g g g g g g g g g g g g u g g g g g g g g u d g g g g g g g g g g g g g g g g g g g g g g g g g g
+g g g g g g g g i g g g g g g g g g g g g g g g g m g g g x g g g e g g d g g g g g g g g g g t g g u g k i g g g g h g g g g g g g g g g g g g g g g a k g g g l g g i g g g g g g g s g w g f g g u g
+g g g g g g g g g s g g n g g g g g g g g g g v i g g g g g v g b g g g j c g g g g g g g g g g g g g g g g y g g g g g g g g g g k g g g g g g g g g g g e g g g g g g y g g m g f g g o g g g g g g g
+h g g g d g g o g g b g f g g g g g g g g g i g g g g n f g g g g g b g g g g g g g g g g g g g a g r m g g g g g g g g w g g g g g g g g g g g g g g g n g p g g g g g g g g g g g w g g g g g g g g g
+g g g g p g g g g g j g g g a e g g g g g g g g g g g g m g g g g g z b g e g e w g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g b g g g g g g n u g g g g g g d g g g m
+g g g g g g l g g g g g g g u g g g g g g n g g g g g g g g g g g g g g g g i g g g g g g y g g g g l g g g g g g g g g g g g g g g g g g g g g g g g g g g x g g g g g g g g g g g g v g g g g g j g g
+m g w g g h g g g g n g g u g g g g g g a g g g g g g g g g g g g t g g g g g x g g g g u g w g g g g g g v d g g i g g g g g g g g g g g g g g g s g g w g p u g s g g g g g g g g g g g g g g g g l g
+g g g g b g g g g g f g g g g g g g g w g p g g g g g g g g k q g g g g g x g u g k c g g b g g g g g g g g g c g g g g g w g g g g g g g g g g g g g c g g t k g l g g g g v i f g g g g g g g d g g x
+g g g g g g g g g g m g g j g g g g g g g g g g g g g g g g g g g g g g q g g g g n g g g o g g g g g g q g g n j g g g g g h g p g g b g g g g g g g g g g g g g g g g g g p g g g g g u g d b g k g g
+g g g g g s g g g g g g g g g g g g g g e g g g g g g g g g g g g g g g g g g j g g g g g g f g g g x g g g r g g g g g g g g g g g g g g g g g g g g g g g g g g t g g f g g g g g g g a k g g g g v g
+g g g p g g k g q g g g g g g g m g g g q g g g g g g g g g g g g g g g g g g g x g g g g g d k g g g g g g g g g g g g g g g g g g g g g g g g g g g g t g g g g g g g g g g e e t g g g g g g g g f k
+j g u g g g g g g g g g g g o q u m g g k g g g g g x g g g g w g g o m g g g g g g g g g g g f g g g k g g g g g g g g g g g g g g g g n c g g g g g g g g g g g g g g c g g g g g g g g g g v g g g g
+g g d v g g g g g h g g m g g g g u g g g g g g g g g g g g g g g a g g g g f l g g g h g g g g g l k g g g g g g g g g g w g g g g g g g g g q g g g g g g u a g g w g g z g q g g g g g g g g g g g g
+g g g g g g g g g g g g g g g g g g b g g c g g g g g g g g g g g g n g g g g g g g g g g t g g g z g g g g g g g g g g e g g g g g g g g g g g g g l n g g g b j g g g g d g g g g g g g v g g g g g f
+g g o g g g g g g g g g g g g g g g g g g l g o m g g g g g o g g g k g g g g g g g g s g g g g g g g g k g g d l j g q g g g g g g g g g g g g g g s b g i c f u g g u g u g g g g g g g g g g g g g g
+g c u g g g g g g x g g g g g g g g g c g z n g b g g m g g v g g s g g g g g w g y g g g g g g g g g g g g g g g g g g t g g g g g g g f g g r g c g z g g g g g g g g g t g g g g g g t g g g n g g g
+g g t g g d g g g v g g g g g g o g g g g g g g d g g g g g g g g g g g g g t g g g g g g f g g j g g g g y g g g g g a g g g g g g g g g g g g g g g g g g g x g g g g g i g g g g g g r g g g g g g g
+g n g g g g g g g g g g g g g g g g g g g g c q g g g g g g g g g g g g g g g g g j g g g g m g g g z g m g g g g c g g g g g g g g g g g g r g y g g g p g g g g g c g g q g g c g a g g g g g g g g g
+g g g g g g g g g g g g g g g c g g g g g g g g g d g g z g g g c x g g g g g g t g g g d g g g g g g g g g g e g g t g g g g z g g g g g g g w b m g g g r g g q g g c z b g g g g g j g g g g g g g g
+g g g g g g k g g g g t b g g g g g g g g g g g g g g g g g g g s g g g g g g g g g g g g g d g g g g g g l g g g g g o g g g g g g z g r g f g g s g g g g g g g g g g y n g g g g g g g g g g j g g g
+g g g g g g g g g g g g g g g g x g g q g g g g g r g g g y g g g g g g g w k g g g g g o g g g g k g g g g g g g g g g g g u g g g g g g g g g g g j g g g g g g d g g g m g g g g g m g g h g g g g o
+g g g k v g g g g z g g g g g g z g g g g g g g g g g g g g g g g g e g n g g g y g g g g g g g g g g g g g g g g g g g g g g g g u g g g q g g g g g g g v g g g g g g g u g g m g g g g g g g g g g g
+l g g g g g g g g g g g g g k n g g g g g s g g g g g g g g g g a g g g g g g g g g g g g k g g g g g g g g g g g g g g g g j g g g h g q g g g g g g s g g g g g g g e g l k g g j g g g g g g g g g g
+g g g g g g g g j g g g g g g g g g g g g c g g g g s g g g g g j g g g g g g g j o g g g r g g g g g g g g d g g g g g g g g g g g g g g g g g g g g g g g n g g s f g g r g g g g g g g e g d g g h g
+g g g g g g g g g g g t g g g d g g g g e g g g o g g g f g g g g g g g g g g g g g g g g v d g g g g y g g g g g g k g g d g g j g a g g z g g g g k g g n g y z g y g g c g g g g g g g g g g g g u c
+g g g g g g g g g g g g h g g g f g g g g g g g g v g g g g r g g g x g g g g z g g g g g z g g w g g g g g g g g v g e g g g g g g g g g g g g g g g g g u g g g g g f v n g g g g g g g g g g g g g g
+g g g g g g g g g g g g g g g g g g g g g g g g g g g g g x g g g g g g g g u g g g g g u g h g g g f g g g g g g g g g g g w g g g l g g g g g g g g g g g g g g g z g g g g g g g g g g g g g d g g f
+i c g g g g g g z y b g q g g g g g g g q g g g g g g g g g g j g g g g a g g g g g g g g g g g g q g g h g j g g g g g g w g j g g g g g g g g g g g g g g g g g f r g g g g o g g x g g n g g g z g g
+g g g g g g h g g g g g g g g g q g g g g g g g g g g g e g g g g g g g g a g g g u g i g g g e g g o g g g g g g g g g g g g g g g g g g g g g g g g g x g g g g g x g g g g g g g g g g g g g g j g g
+g g g g g g e g g g g g v g g g g g j g g g g g g g g g g g g t u h g c g g g g g g g g g g g g k g g g g g g b g g g g g g o h g g g g g g g g g g g g g g g g g g n g g g g g g g g g g e g g g r g g
+g g g g g g g g p g t g g g g g g g g g g g g g g g g g r j g g g g g g g g n g g g g g g g z g g g g g g g g g g g g g g g g g g z h g x g r g g g g g g f g g g g g g g g f g g g g g g g g g g g g g
+g y g g g g g g g g g g g g g g g g g g k g g g a g s g g g g g g g g g g p g g g g g s g g g g t g g g g a g t g g g g g g g g g g g g g g g g g g a g g g g g g g g g g m x l g g g h g g g g g g g g
+g g g g g g g j g g g g g c g g g g u g g g k g g g g g g g n g g g g t g g g g g g g g g g g m g g d g g g g g g g q g g g g g g v g g f g g g g o g g g g g g g g g g g g h g u g g u g g g g g g g g
+g g g g g g g g f g g g g g x g g g g g g l g g g w g g g g g g q g s g g m g g g g g g g g g g g g g g g g g g f g g g g g y l g g g g g g g g g g g g g k g g g g g g g g g g g g g g g g g g g g f g
+n g g g g g g g g g g g g g f g g g g g g g e g g g g g k g g g g g g g l g g g g g b g g g g k g g w g g g g g q g r c g g g g g g g g g g g g g g g g g g g t g g n g g g g g g g g g g g g g g g g g
+g g s g g u u g g g k s g g g t g g g g g g n g g g g g g d g g g g g g g g g g q f g n g g g j g g g w g u g g g g g g g g u o g g g g g g g g g g g y g g g g g g g g g g g g g g g g g g g g z g g g
+g g z g g l g g w g a g g g g g m g g g g g g g m b g k g g g g g y g f g g g g j g p g g b g g g g v g g g g g g i d v g a g g i g g a g g g g g g t g g g g g d g g g g g g g g g g g g g g r g u o g
+g g g g g g g g g g g j g x g g h g g g g o g g g g b g g g g g g m g g g g g g g g g g g q g g g z e g g g t g g g g h g g g g j g g g g s g g g x g g g g g g g g g w x g b g g g g g g g g g g g g e
+n g g g g g g g g x g g o g g g g g g g g g g g g g g g g g g g g g g g g g g g l g g g c g g g g g g e g e g w g g g a g g p g g g g g g b g g g u g g g g u g g g w s g g g g g g m g g g g g g g g g
+g g q g g q g g p g g g g g g g g g b g g g g g g g g g g g g g g g g g g g g v g g g g g g g g m g p g g g g g g y g g g g g g w g g g g x g g g g g g g g g g g g g g u v g g g g g g g g g g g g g g
+g g g m g g g g g g g g g g x g g g g g g g g g g g g g g g g g g g g w g g g g g g g g l g x g g g g g g g g g g g g g g g g g m h g g g g g g g g g g g s g g g j g g g g g g g g g g h g g g g g g g
+g g g g g g g g g g g g g g g y g m g g g g g c p g u g g g g g y g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g z g g g g g m j g g g g g g g g g g g g h g g g g g g g g g g g g g g g
+g g g o g o g g m g g g g g g f g b x g g g g g g g g g g g y g g g g e g g g g g d g g g g g g g g g g g g g g g g g g g g g h n g g y g g r g r g g g r g e g g g g g g g g g g g g g g g g g g g g g
+s g f g g g g g g p g g g g g g g d g g p g g g g z m g g g g n g g g x g g i g g g g g g g g g g g g g g g g b g o g g g g g o i g g g g g g g g g g g g g g o g g w g g i g g g z g b g g g g g g g g
+g g g g g g c g g g x g g g g g g z g g g g g t g g g g g g g g g g y g g g g g g g g g g g g g l g g g m g g g g g g g g g g g r g g g g g g g g g g g g g g p g g g g g a g g g g g g g g u g g w g g
+m g r g g g g g g g g g g g g n g g g g g g g e y g t g g p q g g g g g g g g g g g g g g g g g u g i h g g g g g g b j g g x g p g g g g g g r g g o g g g g g l g g g g g y w g w g g e g g g g g n g
+g b g i g j g g k g g c g t g g g g g g g g g g g g g g g g g g m g g g g g t g g g g j g g g g w i g g g m v g g g g g g g x g w g g g u g g g g g g g g m g g g g g g g g k e g g g g g g g o g l g g
+e g g g g g g g g g n g g g g g g g g g g g g g g g g g g g t i g g g g g g g g g g g g g g g g v g h g g g g g g g g g g g h g f g g l n g g o g g g g g g g n g g g q g u g p g g g w g g g g g t g h
+g g g g o g g g g g g g g g g g g g l g g g g g g g g g g g g g g g g g g g g w m z n i r p w f d g g g g g g g g g g g g g g g k g q g g g g g g n g g g g g a g g g g l g n g g g g b g g g g g g f g
+g g g r l g z g g g g g g w g g g g g g g g g g j g g g g g g g g g g g g g g w v g g g g g g g u g g g g g g g g g g u g g g g y g h g g g g g g g g g g g g g g h g g z g t g g g g p q g g g g g g g
+i g g g g g g g g g g g g g g g g g g g g g g g g r y g g z g g g g g g g g g i g g g g f g g g t z g n g g g g g g g g g g g g g g g v g g f g n g g g r g g g g g g g g g g g g g g g y g c h f g g g
+f g g g g g g g g j g g g g g e g g g g g o g r g g g g g g g g g g g g g m g g g g g g v g g g i g g g l g g g g g z g g s g g g g g o g o g i g g g g g g g g g x g g g g g w r g g g g g t m g g g g
+g g g g g g g g g g p g g g g g g u g g p g g g g g g g g g g g g g g g g o g e w g g o g g g g q g g g g g g g g g g g g g g g g g g g g g p g g g g g g g g g g g g g g g g g g g g g g g g g r g g g
+g g g h g g g g g g g g g n g g g g g g g g g g g g v g g g g g g g g g g g g g g g g g g g s g b u g g g g g g g d g g g g g g g g g g g g g g g z o g g g g g s g g g g g g g g g g g y g k g g g x g
+g g g g g g g g g g g x g g g g g j g g l g g s g g g g g g g g g g g g g g g g g g g g g g l g n g g g g g g g l g g g g j g g g i g w a u g g g g g g g g g g g g g g g g g g h g g g g g g g g g g g
+g g g g g g s g g g g g g g g g g g g g g g g g g g g x g g g g g g q g g g g g g g g g g g g g m g g g g g g g g g g g g f g g g g v g g g g g g g g g g g g g g g g g g g t q x g g g g g g g g g g g
+g g g g g g g g g g g g g f g g k e n k g m g g g f g j g g g g g g g g g g g g g g c g x g g g u g g g k g g g g u g g g g g g q g g g g g g i g g g g g g j g g g g g i g g g g s g g w c g g g g g g
+g g g g g g g g g g g z g g g g g g g g g g g g q g g g g v g g g s g g z g g g g g g g g g e o l g y e g g g g g g g g g g g g g g g g g g g k g g a g g g g g j y g g g g g g g g g g g g g g g z g g
+g g g g g y g g g g g g g g g g a g g g g g g g l g g g g g g g g g g g g g g g i g g g g a g g r g a g j g g g g g t g g f g g g g g g w p g g g g g g g g g g g z g g g b c g g g g p g g g g g g g g
+g g g k g g g g g g y r g i w g g g g g g g g g g g g g k g g g g g g g g m g m h g g g g g g g c g c r g s g g g g g g g g g g g g g g g g g g g b g z x g g g g g g g g g g g g g g g g g g g s g g g
+g m g g g g g g g g g c g g g g y o g g n g g g g g y g g g g g g g g i g g n g g g g g g g g g n g g g g g g g g g g m g g g g g l g g g z g y g g h g g g g g g g g g g g g g g g g g g g g g g g g g
+g g g g g g g g g g g g g g g g g g g g g g g g z g g g g g g g g g v j g g g g t g g g g g g g g g g g d g g g g g g g g g g g g g g g g g g g g g g g g g g g g g z g g g g g e g g g p g d g g c g g
+g g g b g w g g g g g g g j g g g g g x q g g g g g g g g g g g g f g g g g g g g g r g g g g g g g n g g g g b g g g g g g g g g g g g g g g g g s g i g g g g p g g g g g g y g g g g g g x g g k g g
+g g h f g g g g g g g g g g b g r g g g g g g v g g x g g g g e w o g z g d g g g g q k w g g g g b g g g g g g g t g g z g g g g g g g g g g g z y g g g g g g g g p g g l g g z g g g m g g g g g g g
+10
+wmznirpwfk
+tjczuhambnjog
+gggggggggggz
+gggggggggggggggz
+kjloyprjqvc
+luwvdutiqbnmulrcn
+ggggggggggggggz
+gggggggggz
+iitmnkrsbaepi
+ggggggggggggggggz
