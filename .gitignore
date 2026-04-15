@@ -368,6 +368,7 @@ FodyWeavers.xsd
 *.vcxproj
 *.vcxproj.*
 *.exe
+!video.txt
 !test1.txt
 !test2.txt
 !test3.txt

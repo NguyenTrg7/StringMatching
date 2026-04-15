@@ -1,6 +1,6 @@
 #include "Run.h"
 
-// g++ *.cpp -o crossword.exe -std=c++17
+// g++ crossword.cpp Run.cpp Match.cpp -o crossword.exe -std=c++17
 // crossword.exe -a [algo] -i [inputFile] -o [outputFile]
 int main(int argc, char* argv[]) {
 	string arg1 = argv[1], arg3 = argv[3], arg5 = argv[5];
